@@ -10,5 +10,7 @@
     <h4>File coba</h4>
     <br>
     <p>Paragrafnya disini</p>
+    <li>Satu</li>
+    <li>Kedua</li>   
 </body>
 </html>
