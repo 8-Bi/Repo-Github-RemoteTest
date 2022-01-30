@@ -13,7 +13,7 @@
     <ul>
     <li>Satu</li>
     <li>Kedua</li> 
-    </ul>
-      
+    </ul>   
+
 </body>
 </html>
